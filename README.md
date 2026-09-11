@@ -125,9 +125,9 @@ A full-stack learning platform built using MongoDB, Express.js, React and Node.j
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/divya-sree-muppuri-106725410/)
+- 💼 LinkedIn : https://www.linkedin.com/in/divya-sree-muppuri-106725410
 - 📧 Email: divyasreemuppuri@gmail.com
-- 💻 [GitHub](https://github.com/divyasreemuppuri)
+- 💻 GitHub : https://github.com/divyasreemuppuri
 
 ---
 
