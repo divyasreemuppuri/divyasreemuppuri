@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divya Sree
 
-### 💻 Java Full Stack Developer | CSE Graduate | AI Enthusiast
+### 💻 Full Stack Developer | CSE Graduate | AI Enthusiast
 
 Passionate about building responsive and scalable web applications using Java, Spring Boot, React, and modern web technologies.
 
