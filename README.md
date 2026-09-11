@@ -96,8 +96,9 @@ A full-stack learning platform built using MongoDB, Express.js, React and Node.j
 - Student progress tracking
 - Discussion and interaction features
 - Real-time student-admin communication
-
+  
 **Tech:** MongoDB • Express.js • React • Node.js
+
 ---
 
 ## 💼 Internship Experience
