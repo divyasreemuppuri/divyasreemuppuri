@@ -10,9 +10,11 @@ Passionate about building responsive and scalable web applications using Java, S
 
 - 🎓 Computer Science and Engineering Graduate
 - ☕ Java Full Stack Developer
-- 🌱 Currently strengthening Java, Spring Boot and DSA
+- 🚀 Skilled in Java, Spring Boot, React and SQL
 - 🧠 Strong foundation in OOP, DSA and problem-solving
 - 🚀 Interested in building real-world full-stack applications
+- 📊 CGPA: 9.0 / 10
+
 
 ---
 
@@ -36,7 +38,7 @@ MySQL • MongoDB
 
 ### 🔧 Tools & Platforms
 
-Git • GitHub • Maven • Eclipse • VS Code • Postman
+Git • GitHub • Eclipse • VS Code • Postman
 
 ### 🧠 Core Computer Science
 
