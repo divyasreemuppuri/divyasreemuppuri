@@ -19,35 +19,28 @@ Passionate about building responsive and scalable web applications using Java, S
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Programming Languages
-
+### Programming Languages
 Java • Python 
 
-### ⚛️ Frontend
-
+### Frontend
 React.js • JavaScript • HTML5 • CSS3 • Bootstrap
 
-### ☕ Backend
-
+### Backend
 Core Java • Advanced Java • Spring • Spring Boot • Hibernate • JDBC • REST APIs
 
 
-### 🗄️ Databases
-
+### Databases
 MySQL • MongoDB
 
-### 🔧 Tools & Platforms
-
+### Tools & Platforms
 Git • GitHub • Eclipse • VS Code • Postman
 
-### 🧠 Core Computer Science
-
-OOP • Data Structures & Algorithms • DBMS • MVC • Collections • Exception Handling
+### Core Computer Science
+OOPS • Data Structures & Algorithms • DBMS • MVC • Collections • Exception Handling
 
 ---
 
 ## 🚀 Featured Projects
-
 
 ### 📚 Library Management System
 
@@ -55,12 +48,12 @@ A full-stack library management platform built using Java, Spring Boot,
 React and MongoDB.
 
 **Key Features:**
-- 🔐 JWT authentication and role-based access control
-- 📚 Book management and borrowing
-- 🔄 Return and reservation management
-- 💰 Automated fine calculation
-- 🔎 Search and filtering
-- 📊 Reporting and user management
+- JWT authentication and role-based access control
+- Book management and borrowing
+- Return and reservation management
+- Automated fine calculation
+- Search and filtering
+- Reporting and user management
 
 **Tech:** Java • Spring Boot • React • MongoDB • JWT
 
@@ -70,11 +63,11 @@ An AI-powered tourism platform for destination discovery, real-time weather,
 distance calculation and personalized travel planning.
 
 **Key Features:**
-- 🤖 AI-generated travel itineraries
-- 🌦️ Real-time weather information
-- 📍 Destination search and discovery
-- 🗺️ Interactive maps and route visualization
-- ✈️ Personalized travel planning
+- AI-generated travel itineraries
+- Real-time weather information
+- Destination search and discovery
+- Interactive maps and route visualization
+- Personalized travel planning
 
 **Tech:** React • Spring Boot • MongoDB • Gemini API • Leaflet • OpenWeatherMap
 
@@ -83,12 +76,12 @@ distance calculation and personalized travel planning.
 A full-stack college food ordering and digital payment platform built using MongoDB, Express.js, React and Node.js.
 
 **Key Features:**
-- 📱 QR-based food ordering and payment
-- 💳 Digital wallet and cashless transactions
-- 🔐 User authentication and role-based access
-- 🧾 Transaction and payment tracking
-- 👨‍🍳 Canteen staff order management
-- 👨‍💼 Admin management and monitoring
+- QR-based food ordering and payment
+- Digital wallet and cashless transactions
+- User authentication and role-based access
+- Transaction and payment tracking
+- Canteen staff order management
+- Admin management and monitoring
 
 **Tech:** MongoDB • Express.js • React • Node.js
 
@@ -97,12 +90,12 @@ A full-stack college food ordering and digital payment platform built using Mong
 A full-stack learning platform built using MongoDB, Express.js, React and Node.js for managing courses, assessments and student progress.
 
 **Key Features:**
-- 🔐 Student and admin authentication
-- 📚 Course and learning content management
-- 📝 Online assessments and evaluations
-- 📊 Student progress tracking
-- 💬 Discussion and interaction features
-- ⚡ Real-time student-admin communication
+- Student and admin authentication
+- Course and learning content management
+- Online assessments and evaluations
+- Student progress tracking
+- Discussion and interaction features
+- Real-time student-admin communication
 
 **Tech:** MongoDB • Express.js • React • Node.js
 ---
